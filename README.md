@@ -1,4 +1,4 @@
-# C Programming Bootcamp
+# C Programming
 Uber repo for C programming language examples and courses
 
 References:
