@@ -9,7 +9,7 @@ References:
 
 ---
 
-# Getting Started with 
+# Getting Started with Coding 
 ## Check Compiler Version:
 gcc --version     
 
